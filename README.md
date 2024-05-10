@@ -1,3 +1,6 @@
 # app-dev
 ## My first repository
-## H2 **my favorite movie/series is Godzilla x kong**
+### **my favorite movie/series is Godzilla x kong**
+- Best monster movie
+- Giant Lizard
+- Giant Monkey
